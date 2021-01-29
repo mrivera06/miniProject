@@ -21,12 +21,12 @@ class Main {
         {
         System.out.println("I'm sorry you can't go out right now maybe later");
         }
-      }
-      else (false)
+      
+      else 
       {
         System.out.println("Lets go outside and have fun!");
       }
-
+      }
     }
 
   
